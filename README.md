@@ -1,5 +1,5 @@
 # Prey
-GDW 1 (INFR 1395: Game Development Workshop I) | FALL 2021
+GDW 1 | FALL 2021
 
 Group Name: Loading...
 
